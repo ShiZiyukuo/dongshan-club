@@ -1,0 +1,3126 @@
+{
+  "title": "东山有戏：这关一起过",
+  "version": "0.8.0",
+  "chapters": [
+    {
+      "title": "群先建起来",
+      "subtitle": "01 / 社长篇",
+      "start": 0
+    },
+    {
+      "title": "来都来了，坐",
+      "subtitle": "02 / 社长篇",
+      "start": 56
+    },
+    {
+      "title": "这也叫基础？",
+      "subtitle": "03 / 社长篇",
+      "start": 108
+    },
+    {
+      "title": "咱们分着来",
+      "subtitle": "04 / 社长篇",
+      "start": 163
+    },
+    {
+      "title": "门开了，交吧",
+      "subtitle": "05 / 社长篇",
+      "start": 207
+    },
+    {
+      "title": "这儿有个空位",
+      "subtitle": "06 / 社长篇",
+      "start": 269
+    }
+  ],
+  "nodes": [
+    {
+      "id": "p0",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "窗边的手机亮了又暗。社长挪开电脑旁的水杯，先把刚才那条消息看完。",
+      "actor": ""
+    },
+    {
+      "id": "p1",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "校青协在确认活动安排，院团委在问文件，另一个群弹出一句：“咱们要不真建个社团？”",
+      "actor": ""
+    },
+    {
+      "id": "p2",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "游戏制作社团还没正式成立，群名暂时只有“先拉个群”。",
+      "actor": ""
+    },
+    {
+      "id": "p3",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把新群的名字记下来。记事本翻到新一页，旧一页还有两项没划。",
+      "actor": ""
+    },
+    {
+      "id": "p4",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "身后有人叫她。",
+      "actor": ""
+    },
+    {
+      "id": "p5",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "现在方便吗？",
+      "actor": "founder"
+    },
+    {
+      "id": "p6",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她转过身。部长抱着电脑，屏幕还亮着。",
+      "actor": ""
+    },
+    {
+      "id": "p7",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "怎么了？",
+      "actor": "president"
+    },
+    {
+      "id": "p8",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "想申请个游戏社团。人我去喊，材料咱们看看？",
+      "actor": "founder"
+    },
+    {
+      "id": "p9",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她接过电脑。",
+      "actor": ""
+    },
+    {
+      "id": "p10",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "来找她的是后来大家叫技术部部长的同学。学软工，程序写得快，一说办手续，先打开了一个文件夹。",
+      "actor": ""
+    },
+    {
+      "id": "p11",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "文件夹里有“新建文件夹”和“新建文件夹2”。她把鼠标停了一下。",
+      "actor": ""
+    },
+    {
+      "id": "p12",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "这俩哪个算新的？",
+      "actor": "president"
+    },
+    {
+      "id": "p13",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "第二个。",
+      "actor": "founder"
+    },
+    {
+      "id": "p14",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "第一个呢？",
+      "actor": "president"
+    },
+    {
+      "id": "p15",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "那个旧的。先别删，可能还有东西。",
+      "actor": "founder"
+    },
+    {
+      "id": "p16",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她打开第二个文件夹。",
+      "actor": ""
+    },
+    {
+      "id": "p17",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "老师那边问过了吗？",
+      "actor": "president"
+    },
+    {
+      "id": "p18",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "问过，愿意指导。想来的人也找了一些。",
+      "actor": "founder"
+    },
+    {
+      "id": "p19",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我把老师要的东西列一下。先对表，别填半天填了旧的。",
+      "actor": "president"
+    },
+    {
+      "id": "p20",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "好。",
+      "actor": "founder"
+    },
+    {
+      "id": "p21",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有两段补好了，刚发过来。",
+      "actor": ""
+    },
+    {
+      "id": "p22",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "这两段也是你写的？",
+      "actor": "president"
+    },
+    {
+      "id": "p23",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "找同学帮忙填的。",
+      "actor": "founder"
+    },
+    {
+      "id": "p24",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "行。那咱们先把这两段放对地方。",
+      "actor": "president"
+    },
+    {
+      "id": "p25",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "预备铃响了。她看了一眼时间。",
+      "actor": ""
+    },
+    {
+      "id": "p26",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我下午还有课，晚上给你回。",
+      "actor": "president"
+    },
+    {
+      "id": "p27",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "不用急。",
+      "actor": "founder"
+    },
+    {
+      "id": "p28",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "他把电脑接回去，切到另一个窗口。一个角色在屏幕上挥了两下武器。",
+      "actor": ""
+    },
+    {
+      "id": "p29",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长应了一声，已经把动作录像往回拖。屏幕里的角色刚打完一套，他觉得还能改。",
+      "actor": ""
+    },
+    {
+      "id": "p30",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把几份材料排到一起。老师刚回复了需要确认的事项。",
+      "actor": ""
+    },
+    {
+      "id": "p31",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "attachments",
+      "who": "",
+      "actor": "president",
+      "text": "她把要求和附件放在一起，准备核对最后的版本。"
+    },
+    {
+      "id": "p32",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "就交这份吧，旧的先放旁边。",
+      "actor": "president",
+      "chat": "president-application-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p33",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "好。",
+      "actor": "founder",
+      "chat": "president-application-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p34",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "这个好像不太对。老师应该不收攻击判定图。",
+      "actor": "president",
+      "chat": "president-application-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p35",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "什么？",
+      "actor": "founder",
+      "chat": "president-application-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p36",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "攻击判定截图。这个老师大概用不上。",
+      "actor": "president",
+      "chat": "president-application-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p37",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "正确的文件跟着发来。她把旧附件挪开，文件名也补了日期，免得明天还要猜一次。",
+      "actor": ""
+    },
+    {
+      "id": "p38",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "几个人围着桌子，把最后几项确认完。",
+      "actor": ""
+    },
+    {
+      "id": "p39",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "申请下来以后，活动这些谁来张罗？",
+      "actor": "peer"
+    },
+    {
+      "id": "p40",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长把手从键盘上挪开。",
+      "actor": ""
+    },
+    {
+      "id": "p41",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "技术的可以找我。",
+      "actor": "founder"
+    },
+    {
+      "id": "p42",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "其他的呢？",
+      "actor": "peer"
+    },
+    {
+      "id": "p43",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把材料收进文件袋。",
+      "actor": ""
+    },
+    {
+      "id": "p44",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "那我先盯着通知和场地。技术的事找你，别找着找着全跑我这儿来。",
+      "actor": "president"
+    },
+    {
+      "id": "p45",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "成。这些我确实不太会。我还是想搞程序。",
+      "actor": "founder"
+    },
+    {
+      "id": "p46",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "知道。让你回个时间，你能顺带发三版动作。",
+      "actor": "president"
+    },
+    {
+      "id": "p47",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "行，演示交给我。",
+      "actor": "founder"
+    },
+    {
+      "id": "p48",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "材料一次报上去，过了。她把确认消息转进群里，又把文件夹里的“最终版”改成“已提交”。",
+      "actor": ""
+    },
+    {
+      "id": "p49",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她确认消息，发进群里。有人发庆祝表情，有人问第一次什么时候见面。",
+      "actor": ""
+    },
+    {
+      "id": "p50",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长发了段新录像。社团成立后的第一条技术更新，来得比见面会通知还快。",
+      "actor": ""
+    },
+    {
+      "id": "p51",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "这个等会儿看。先回一下，周三晚上几点方便？",
+      "actor": "president",
+      "chat": "president-0",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p52",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "哦。",
+      "actor": "founder",
+      "chat": "president-0",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p53",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她打开日历，找了一块大家比较方便的空档。",
+      "actor": ""
+    },
+    {
+      "id": "p54",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "那天校青协也有安排，院里还要一份表。她把时间错开，旁边补了个小小的“记得吃饭”。",
+      "actor": ""
+    },
+    {
+      "id": "p55",
+      "chapter": 0,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "一周的格子填得差不多了。“记得吃饭”倒是没占多大地方。",
+      "actor": ""
+    },
+    {
+      "id": "p56",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她提前来了一会儿。",
+      "actor": ""
+    },
+    {
+      "id": "p57",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "活动教室里，后排的太阳比投影亮。社长站到屏幕前，试着看清最后两行字。",
+      "actor": ""
+    },
+    {
+      "id": "p58",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她拉下一截窗帘。",
+      "actor": ""
+    },
+    {
+      "id": "p59",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长进门，把电脑放到讲台上。",
+      "actor": ""
+    },
+    {
+      "id": "p60",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "我把动画模型那段录像带来了。",
+      "actor": "founder"
+    },
+    {
+      "id": "p61",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "今天就放这段？",
+      "actor": "president"
+    },
+    {
+      "id": "p62",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "嗯。工程怕现场卡，先给大家看录像。",
+      "actor": "founder"
+    },
+    {
+      "id": "p63",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "他停了一下。",
+      "actor": ""
+    },
+    {
+      "id": "p64",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "动作还想再调一下。现在看着有点别扭。",
+      "actor": "founder"
+    },
+    {
+      "id": "p65",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "那录像先留着，等会儿直接放。",
+      "actor": "president"
+    },
+    {
+      "id": "p66",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把糖倒进盘子，往后排传。有人问能不能再拿一颗，她摆摆手：本来就是让大家吃的。",
+      "actor": ""
+    },
+    {
+      "id": "p67",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "帮忙往后传一下，谢谢。",
+      "actor": "president"
+    },
+    {
+      "id": "p68",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人带着电脑，有人带着画本。有人坐下以后，才问这里是不是游戏制作社团。",
+      "actor": ""
+    },
+    {
+      "id": "p69",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "对，进来坐。椅子够，不用站门口。",
+      "actor": "president"
+    },
+    {
+      "id": "p70",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机亮起，另一边还有人在等她过去。",
+      "actor": ""
+    },
+    {
+      "id": "p71",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她回复“这边开完场就来”，收好手机。",
+      "actor": ""
+    },
+    {
+      "id": "p72",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "先随便聊聊吧。平时玩什么，想做什么，都行。",
+      "actor": "president"
+    },
+    {
+      "id": "p73",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "还不会也没事。我也不写程序，今天先听大家想做什么。",
+      "actor": "president"
+    },
+    {
+      "id": "p74",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "media",
+      "who": "",
+      "text": "部长先说想做三维动作，又打开了自己做的神经网络动画模型录像。",
+      "actor": "founder",
+      "media": "neural"
+    },
+    {
+      "id": "p75",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "话说到一半，工程已经打开了。",
+      "actor": ""
+    },
+    {
+      "id": "p76",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "先让其他人也说说？",
+      "actor": "president"
+    },
+    {
+      "id": "p77",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "好。",
+      "actor": "founder"
+    },
+    {
+      "id": "p78",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人想种田，有人想联机，有人想写故事。社长往白板上记，笔还没挪完，话题已经拐到下一个游戏。",
+      "actor": ""
+    },
+    {
+      "id": "p79",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她在白板上记下几个词。",
+      "actor": ""
+    },
+    {
+      "id": "p80",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她正找地方写“恐怖”，大家已经开始争论某个游戏的房子好不好盖。",
+      "actor": ""
+    },
+    {
+      "id": "p81",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "那个主要是后期不好玩。",
+      "actor": "peer"
+    },
+    {
+      "id": "p82",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同届同学",
+      "text": "我觉得前面也一般。",
+      "actor": "peer"
+    },
+    {
+      "id": "p83",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "画本同学",
+      "text": "我刚才说的房子——",
+      "actor": "artist"
+    },
+    {
+      "id": "p84",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "旁边同学",
+      "text": "所以可以联机装修？",
+      "actor": "gamer"
+    },
+    {
+      "id": "p85",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她拿着笔，等了半天。",
+      "actor": ""
+    },
+    {
+      "id": "p86",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "等一下，咱这是在聊一个游戏，还是各聊各的？",
+      "actor": "president"
+    },
+    {
+      "id": "p87",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "几个人停下来。",
+      "actor": ""
+    },
+    {
+      "id": "p88",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "靠窗同学",
+      "text": "不是，我在说我自己的。",
+      "actor": "writer"
+    },
+    {
+      "id": "p89",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "旁边同学",
+      "text": "噢，那我白替你们操心怎么一块种地了。",
+      "actor": "gamer"
+    },
+    {
+      "id": "p90",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她给白板上的几个词分别画了圈。",
+      "actor": ""
+    },
+    {
+      "id": "p91",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "各记各的。先别急着拼一起，拼起来谁都不认识了。",
+      "actor": "president"
+    },
+    {
+      "id": "p92",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机又振了。她看完，拿起文件袋。",
+      "actor": ""
+    },
+    {
+      "id": "p93",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我得先过去一趟。教室可以用到八点半，最后走的时候关设备、关窗，钥匙先交给我。",
+      "actor": "president"
+    },
+    {
+      "id": "p94",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "好，钥匙给我。你先忙。",
+      "actor": "peer"
+    },
+    {
+      "id": "p95",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "插线板是借的，收的时候单独装啊。",
+      "actor": ""
+    },
+    {
+      "id": "p96",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "这个是借的，收的时候单独放。",
+      "actor": "president"
+    },
+    {
+      "id": "p97",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "行。",
+      "actor": "peer"
+    },
+    {
+      "id": "p98",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长还在回答问题。前排问引擎，后排问电脑能不能带得动，两头都得顾。",
+      "actor": ""
+    },
+    {
+      "id": "p99",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "社长在门口听了两句，没插话，回了另一边的消息。",
+      "actor": ""
+    },
+    {
+      "id": "p100",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她处理完事情，点开社团群。",
+      "actor": ""
+    },
+    {
+      "id": "p101",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "群里发了白板照片，还有人拍了一桌糖纸。社长把两张都存了，活动记录总得有始有终。",
+      "actor": ""
+    },
+    {
+      "id": "p102",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "今天谢谢大家啦。下次什么时候，咱们群里再定。",
+      "actor": "president",
+      "chat": "president-1",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p103",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "同学",
+      "text": "插线板单独装好了，没混进去。",
+      "actor": "peer",
+      "chat": "president-1",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p104",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她往下看。还有一张部长蹲在电脑旁边的照片。",
+      "actor": ""
+    },
+    {
+      "id": "p105",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "下次讲基础，先让它动起来。",
+      "actor": "founder",
+      "chat": "president-1",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p106",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她想起今天大家各说各的样子。",
+      "actor": ""
+    },
+    {
+      "id": "p107",
+      "chapter": 1,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "成。你先问问大家现在会到哪儿了，别一上来就飞。",
+      "actor": "president",
+      "chat": "president-1",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p108",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她在群里发了一个简单的问题。",
+      "actor": ""
+    },
+    {
+      "id": "p109",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "群里发了个小调查：会什么、装了什么、想从哪儿开始。回复很实在，没人给自己加分。",
+      "actor": ""
+    },
+    {
+      "id": "p110",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "回复陆续出现。",
+      "actor": ""
+    },
+    {
+      "id": "p111",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "“学过C。”",
+      "actor": ""
+    },
+    {
+      "id": "p112",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "“会一点。”",
+      "actor": ""
+    },
+    {
+      "id": "p113",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "“没做过。”",
+      "actor": ""
+    },
+    {
+      "id": "p114",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "还没装。电脑准备好了。",
+      "actor": ""
+    },
+    {
+      "id": "p115",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "没事，我这次真从基础讲。",
+      "actor": "founder",
+      "chat": "president-2",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p116",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "活动那天，社长晚到了几分钟。部长讲得正顺，投影上已经连起了好几条线。",
+      "actor": ""
+    },
+    {
+      "id": "p117",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "进门的时候，投影上已经有一排节点。部长指着其中一块，说这部分应该都知道。",
+      "actor": ""
+    },
+    {
+      "id": "p118",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "下面很安静。她找了个空位坐下，先看屏幕，再看看大家的屏幕。好像不是同一个阶段。",
+      "actor": ""
+    },
+    {
+      "id": "p119",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "旁边的同学还在安装。她把插线板往他那边挪了一点。",
+      "actor": ""
+    },
+    {
+      "id": "p120",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "还要多久？",
+      "actor": "president"
+    },
+    {
+      "id": "p121",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "下载还在百分之九十三。旁边同学指指进度条：“刚才就这样了。”",
+      "actor": ""
+    },
+    {
+      "id": "p122",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把插线板推近一点，先让电脑接上电。进度慢点没事，可别又从头来。",
+      "actor": ""
+    },
+    {
+      "id": "p123",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "前排的角色转起了圈，部长过去看。另一边有人举手，部长又搬着椅子过去。",
+      "actor": ""
+    },
+    {
+      "id": "p124",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她沿着桌子看了一圈。",
+      "actor": ""
+    },
+    {
+      "id": "p125",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "同一排电脑，左边是工程，中间是教程，右边是下载。部长讲的“基础”，暂时还没走到同一个起点。",
+      "actor": ""
+    },
+    {
+      "id": "p126",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "大家现在做到哪儿了？",
+      "actor": "president"
+    },
+    {
+      "id": "p127",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有在找按钮的，还有等安装的。你先缓一下。",
+      "actor": ""
+    },
+    {
+      "id": "p128",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "先把这里接上，就能动了。",
+      "actor": "founder"
+    },
+    {
+      "id": "p129",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "我这里还没有这几个东西。",
+      "actor": "peer"
+    },
+    {
+      "id": "p130",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长低头。对方还没建项目。",
+      "actor": ""
+    },
+    {
+      "id": "p131",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "大家陆续收电脑，部长把讲义发进群里。",
+      "actor": ""
+    },
+    {
+      "id": "p132",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "今天讲得是不是有点快？",
+      "actor": "founder"
+    },
+    {
+      "id": "p133",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "有一点。你先退到刚打开那儿，别急。",
+      "actor": "president"
+    },
+    {
+      "id": "p134",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "他看了一眼自己的讲义。",
+      "actor": ""
+    },
+    {
+      "id": "p135",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "我删掉挺多了，后面那些都没讲。",
+      "actor": "founder"
+    },
+    {
+      "id": "p136",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "你现在讲到哪一步算开始？",
+      "actor": "president"
+    },
+    {
+      "id": "p137",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "建角色类。",
+      "actor": "founder"
+    },
+    {
+      "id": "p138",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把旁边那台刚安装好的电脑转过去。",
+      "actor": ""
+    },
+    {
+      "id": "p139",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "这位刚装完。咱们从他这一步开始行不行？",
+      "actor": "president"
+    },
+    {
+      "id": "p140",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长看了几秒。",
+      "actor": ""
+    },
+    {
+      "id": "p141",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "行，我重新来。",
+      "actor": "founder"
+    },
+    {
+      "id": "p142",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "下次把安装说明先发群里。装好了的帮旁边看看，别一半人在等下载，一半人在等人。",
+      "actor": "president"
+    },
+    {
+      "id": "p143",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她发出一份新的活动说明。",
+      "actor": ""
+    },
+    {
+      "id": "p144",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "新的活动说明，第一行写得很简单：",
+      "actor": ""
+    },
+    {
+      "id": "p145",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "先确认软件能正常打开。",
+      "actor": ""
+    },
+    {
+      "id": "p146",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "下面附了截图，按钮的位置圈得清清楚楚。",
+      "actor": ""
+    },
+    {
+      "id": "p147",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长发来重新整理的步骤。第一页只有几行。",
+      "actor": ""
+    },
+    {
+      "id": "p148",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她翻到第二页。还是很多。",
+      "actor": ""
+    },
+    {
+      "id": "p149",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "第二页留到下次？",
+      "actor": "president",
+      "chat": "president-lesson-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p150",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "行，今天先让第一页过关。",
+      "actor": "founder",
+      "chat": "president-lesson-private",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p151",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人按照截图打开项目，有人已经开始帮旁边的人找按钮。",
+      "actor": ""
+    },
+    {
+      "id": "p152",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长没有急着往后讲。",
+      "actor": ""
+    },
+    {
+      "id": "p153",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "这回，她听懂了“按这个往前走”。先不用知道角色类是什么。",
+      "actor": ""
+    },
+    {
+      "id": "p154",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "屏幕上的方块往前挪了挪。社长也按了一下，小心试着跟上。",
+      "actor": ""
+    },
+    {
+      "id": "p155",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "方块掉了下去。",
+      "actor": ""
+    },
+    {
+      "id": "p156",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我刚才是不是多按了一下？",
+      "actor": "president"
+    },
+    {
+      "id": "p157",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长凑过来看。",
+      "actor": ""
+    },
+    {
+      "id": "p158",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "不是，你没问题。前面少块地板。",
+      "actor": "founder"
+    },
+    {
+      "id": "p159",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "他很快补上。她重新运行。",
+      "actor": ""
+    },
+    {
+      "id": "p160",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "方块这回留在了地上。她松开按键，看看它有没有别的打算。",
+      "actor": ""
+    },
+    {
+      "id": "p161",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "行，这回站稳了。",
+      "actor": "president"
+    },
+    {
+      "id": "p162",
+      "chapter": 2,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她又让它往前走了一点。",
+      "actor": ""
+    },
+    {
+      "id": "p163",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "那阵子事情挤到了一起。青协有活动，院里有材料，跨校茶话会也要定时间。她摊开日历，找了个还能写字的角落。",
+      "actor": ""
+    },
+    {
+      "id": "p164",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "原先打算一会儿做完的事，越列越长。水杯在手边，拿起来才发现空了。",
+      "actor": ""
+    },
+    {
+      "id": "p165",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机接连响了几次。",
+      "actor": ""
+    },
+    {
+      "id": "p166",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她先回复老师，确认交流活动的安排，再打开准备发出的通知。",
+      "actor": ""
+    },
+    {
+      "id": "p167",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "回完电话，电脑上还开着两份通知。长得差不多，只有一行时间不一样。",
+      "actor": ""
+    },
+    {
+      "id": "p168",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "同学",
+      "text": "通知里是六点半，群里之前说七点，按哪个？",
+      "actor": "peer",
+      "chat": "president-3",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p169",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她看了一眼群消息，又看了一眼文档。平时不容易看错的地方，这次偏偏对不上了。",
+      "actor": ""
+    },
+    {
+      "id": "p170",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "一份旧通知，一份修改过的安排。聊天里还有老师刚确认的回复。",
+      "actor": ""
+    },
+    {
+      "id": "p171",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "等一下，我核对完重新发。",
+      "actor": "president",
+      "chat": "president-3",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p172",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "notice",
+      "who": "",
+      "actor": "president",
+      "text": "几份通知的时间不一致。她重新打开最新确认的消息。"
+    },
+    {
+      "id": "p173",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "时间改成七点，刚才那版撤回了。不好意思，大家看这一条。",
+      "actor": "president",
+      "chat": "president-3",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p174",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "同学",
+      "text": "收到。",
+      "actor": "peer",
+      "chat": "president-3",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p175",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "同届同学",
+      "text": "明白。",
+      "actor": "peer",
+      "chat": "president-3",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p176",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把旧通知关掉，文件名加上“作废”。今天谁都别再冒充最新版。",
+      "actor": ""
+    },
+    {
+      "id": "p177",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "待办还剩一长串。她对着列表坐了一会儿，把原先准备自己做的三项圈出来。",
+      "actor": ""
+    },
+    {
+      "id": "p178",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "停了一下，又打开群聊。",
+      "actor": ""
+    },
+    {
+      "id": "p179",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "我这边有点赶不开。谁有空帮我分一下？",
+      "actor": "president",
+      "chat": "president-3",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p180",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把设备清点、路线指引和活动材料分开列好，发进群里，问大家哪项方便接。",
+      "actor": ""
+    },
+    {
+      "id": "p181",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长认领设备，另一个同学开始整理路线，画本同学说自己可以提前到。",
+      "actor": ""
+    },
+    {
+      "id": "p182",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "很快，三项后面都有了名字。她把人和时间补齐，终于不用一边回消息一边猜自己漏了什么。",
+      "actor": ""
+    },
+    {
+      "id": "p183",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机还在响。这回有几条是“弄好了”，她一条条回了“收到，谢谢”。",
+      "actor": ""
+    },
+    {
+      "id": "p184",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她处理完另一边的事情，晚到了一会儿。",
+      "actor": ""
+    },
+    {
+      "id": "p185",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人抬头招呼她：“刚忙完？快坐，这边有位子。”",
+      "actor": ""
+    },
+    {
+      "id": "p186",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她过去问了两句，时间、设备和人员都没问题。",
+      "actor": ""
+    },
+    {
+      "id": "p187",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "那我先坐下听？",
+      "actor": "president"
+    },
+    {
+      "id": "p188",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "你先听吧。投影我们试过了，能用。",
+      "actor": "peer"
+    },
+    {
+      "id": "p189",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人把零食盒推过来，还剩半盒。她拿了一块，发现自己下午那句“记得吃饭”又没兑现。",
+      "actor": ""
+    },
+    {
+      "id": "p190",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "谢谢。",
+      "actor": "president"
+    },
+    {
+      "id": "p191",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "分享者正在演示一个小游戏。运行到一半，角色卡在墙边。",
+      "actor": ""
+    },
+    {
+      "id": "p192",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "分享同学",
+      "text": "这墙终于能挡住人了，就是现在谁也过不去了。我还得再改改。",
+      "actor": "programmer"
+    },
+    {
+      "id": "p193",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "大家笑了一阵。有人问怎么撞出来的，有人说自己上次连墙都没做。",
+      "actor": ""
+    },
+    {
+      "id": "p194",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "社长把手机放进包里，听完了这一段。至少现在，没有哪条消息非得立刻回。",
+      "actor": ""
+    },
+    {
+      "id": "p195",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人继续聊技术，有人开始收拾东西。",
+      "actor": ""
+    },
+    {
+      "id": "p196",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她蹲下准备收东西，一抬头，别人已经把线卷好了。",
+      "actor": ""
+    },
+    {
+      "id": "p197",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "这个我弄，帮忙看看还有没有落东西？",
+      "actor": "peer"
+    },
+    {
+      "id": "p198",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她看了一圈。桌角有一只充电器，问过以后，很快找到了主人。",
+      "actor": ""
+    },
+    {
+      "id": "p199",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "画本同学",
+      "text": "下回忙不过来早点说呗。我们又不是只会来吃糖。",
+      "actor": "artist"
+    },
+    {
+      "id": "p200",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "知道啦。我总觉得顺手就能弄完，顺着顺着就多了。",
+      "actor": "president"
+    },
+    {
+      "id": "p201",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "画本同学",
+      "text": "路线那个我以前做过，改一下就行。",
+      "actor": "artist"
+    },
+    {
+      "id": "p202",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "那模板也留着吧。",
+      "actor": "president"
+    },
+    {
+      "id": "p203",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "画本同学",
+      "text": "存了。文件名也改了，这回保证找得着。",
+      "actor": "artist"
+    },
+    {
+      "id": "p204",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她打开手机，记下下次准备提前确认的事情。记完，收回口袋。",
+      "actor": ""
+    },
+    {
+      "id": "p205",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "刚才那个门，最后到底怎么开的？",
+      "actor": "president"
+    },
+    {
+      "id": "p206",
+      "chapter": 3,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "几个人从教室聊到馨园。社长问清了门怎么开，顺便问清了晚饭吃什么。后一个问题解决得快些。",
+      "actor": ""
+    },
+    {
+      "id": "p207",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她来之前，几个同学已经围着电脑坐下。",
+      "actor": ""
+    },
+    {
+      "id": "p208",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "比赛那天，桌上有画稿、电脑和没拆的面包。部长正在敲键盘，嘴上说“等一下”，手上一直没停。",
+      "actor": ""
+    },
+    {
+      "id": "p209",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把活动要求放到群文件里，和负责展示的同学确认流程。",
+      "actor": ""
+    },
+    {
+      "id": "p210",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我盯文件和截止时间。你们要交哪版记得喊我，别让我从名字里猜。",
+      "actor": "president"
+    },
+    {
+      "id": "p211",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "好。",
+      "actor": "peer"
+    },
+    {
+      "id": "p212",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她坐到空位上，看了一会儿。",
+      "actor": ""
+    },
+    {
+      "id": "p213",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我能试试不？就当新玩家。",
+      "actor": "president"
+    },
+    {
+      "id": "p214",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "电脑被转过来。",
+      "actor": ""
+    },
+    {
+      "id": "p215",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "能，不过有几个地方还没修。卡了叫我。",
+      "actor": "peer"
+    },
+    {
+      "id": "p216",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "屏幕上是一间房间。角色站在门口。",
+      "actor": ""
+    },
+    {
+      "id": "p217",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她先按了一下屏幕上的箭头。没反应，又按一下。角色很有耐心，也站着等。",
+      "actor": ""
+    },
+    {
+      "id": "p218",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "怎么走？",
+      "actor": "president"
+    },
+    {
+      "id": "p219",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "几个人停了一下。",
+      "actor": ""
+    },
+    {
+      "id": "p220",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "键盘，WASD。",
+      "actor": "founder"
+    },
+    {
+      "id": "p221",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她试着往前走，这次动了。",
+      "actor": ""
+    },
+    {
+      "id": "p222",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "那能写一下吗？不然我还以为它在等我点。",
+      "actor": "president"
+    },
+    {
+      "id": "p223",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "忘了。",
+      "actor": "peer"
+    },
+    {
+      "id": "p224",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她照着提示走进屋里。桌子画得很实在，角色却直接从中间过去了。",
+      "actor": ""
+    },
+    {
+      "id": "p225",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "这桌子不挡人？",
+      "actor": ""
+    },
+    {
+      "id": "p226",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "画本同学",
+      "text": "这里不挡一下？",
+      "actor": "artist"
+    },
+    {
+      "id": "p227",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "等下，我先看触发。",
+      "actor": "founder"
+    },
+    {
+      "id": "p228",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "角色还没拿到钥匙，结尾就出现了。",
+      "actor": ""
+    },
+    {
+      "id": "p229",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把手从键盘上拿开。",
+      "actor": ""
+    },
+    {
+      "id": "p230",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我这就通关啦？钥匙还没找呢。",
+      "actor": "president"
+    },
+    {
+      "id": "p231",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "不是。",
+      "actor": "founder"
+    },
+    {
+      "id": "p232",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长转回电脑，旁边有人递来新的结尾图。她把鼠标让开，等这一轮改完。",
+      "actor": ""
+    },
+    {
+      "id": "p233",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她又试了一次。",
+      "actor": ""
+    },
+    {
+      "id": "p234",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "这次拿到钥匙，绕过桌子，走到门前。",
+      "actor": ""
+    },
+    {
+      "id": "p235",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "这次钥匙拿到了，门又不动了。刚才还很自由的角色，终于遇到一扇有原则的门。",
+      "actor": ""
+    },
+    {
+      "id": "p236",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长盯着屏幕。她等了一会儿。",
+      "actor": ""
+    },
+    {
+      "id": "p237",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "这个要等一会儿，还是我漏了什么？",
+      "actor": "president"
+    },
+    {
+      "id": "p238",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "等一下。",
+      "actor": "founder"
+    },
+    {
+      "id": "p239",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把手收回来。",
+      "actor": ""
+    },
+    {
+      "id": "p240",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "美术换图，文案补提示，部长改触发。社长把还没拆的面包往几个人中间推。",
+      "actor": ""
+    },
+    {
+      "id": "p241",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "每个人都在改一点东西。",
+      "actor": ""
+    },
+    {
+      "id": "p242",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "作品终于能从头走到尾。她把它重新打开，从入口再试一遍。",
+      "actor": ""
+    },
+    {
+      "id": "p243",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "从头来。你们先别在旁边提醒，我看自己能不能走完。",
+      "actor": ""
+    },
+    {
+      "id": "p244",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "这回走完了。没穿桌子，也没在门口等人救。",
+      "actor": "president"
+    },
+    {
+      "id": "p245",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长准备上传。",
+      "actor": ""
+    },
+    {
+      "id": "p246",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "交完留个备份。可别刚交上去，回头就只剩“正在修改”。",
+      "actor": "president"
+    },
+    {
+      "id": "p247",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "留了。",
+      "actor": "founder"
+    },
+    {
+      "id": "p248",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "提交成功。",
+      "actor": ""
+    },
+    {
+      "id": "p249",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把页面截图存下来。部长看着工程。",
+      "actor": ""
+    },
+    {
+      "id": "p250",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "我刚才想到——",
+      "actor": "founder"
+    },
+    {
+      "id": "p251",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "先交这份，别的去副本里想。",
+      "actor": "peer"
+    },
+    {
+      "id": "p252",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "技术部部长",
+      "text": "已经交了。我改另一个。",
+      "actor": "founder"
+    },
+    {
+      "id": "p253",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "其他队伍轮流展示。有的做得漂亮，有的临场出错。台下问了几句，两边就凑到一块看电脑。",
+      "actor": ""
+    },
+    {
+      "id": "p254",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "大家围过去，一起找问题。她站在一旁看了一会儿。",
+      "actor": ""
+    },
+    {
+      "id": "p255",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有同学问下次还办不办交流。",
+      "actor": ""
+    },
+    {
+      "id": "p256",
+      "chapter": 4,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "可以啊，到时候一起商量时间。",
+      "actor": "president"
+    },
+    {
+      "id": "p257",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "赛后回到馨园，几个人端着餐盘拼了一桌。刚才争了半天的关卡，吃饭时还没聊完。",
+      "actor": ""
+    },
+    {
+      "id": "p258",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "小叶子端着饭站在桌边。",
+      "actor": ""
+    },
+    {
+      "id": "p259",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "小叶子",
+      "text": "这里有人吗？",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "p260",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "没有，坐吧。",
+      "actor": "president"
+    },
+    {
+      "id": "p261",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "他坐下，开始吃饭。桌上的话题又回到刚才的比赛。",
+      "actor": ""
+    },
+    {
+      "id": "p262",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "你刚才找钥匙找了半天啊。",
+      "actor": "peer"
+    },
+    {
+      "id": "p263",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "我以为柜子能拉开，还点了好几下。",
+      "actor": "president"
+    },
+    {
+      "id": "p264",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "画本同学",
+      "text": "是不是画得太像能开的了？",
+      "actor": "artist"
+    },
+    {
+      "id": "p265",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "对。",
+      "actor": "president"
+    },
+    {
+      "id": "p266",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "画本同学把这条记下来。游戏里那只柜子没法开，意见倒是装进去了。",
+      "actor": ""
+    },
+    {
+      "id": "p267",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机安静了。社长瞟了一眼，没拿起来。",
+      "actor": ""
+    },
+    {
+      "id": "p268",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "先把饭吃完。面不等人。",
+      "actor": ""
+    },
+    {
+      "id": "p269",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "后来，有的活动她从头待到尾，有的只赶上后半场。还有几次没去成，群里的照片倒是一张没漏。",
+      "actor": ""
+    },
+    {
+      "id": "p270",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她在群里确认教室和安排，其他同学到了以后发来消息。",
+      "actor": ""
+    },
+    {
+      "id": "p271",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "开始了。",
+      "actor": ""
+    },
+    {
+      "id": "p272",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "过一阵，又有人发：",
+      "actor": ""
+    },
+    {
+      "id": "p273",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "设备收好了。",
+      "actor": ""
+    },
+    {
+      "id": "p274",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "看到“收好了”，她在清单上打勾。没赶上热闹，至少知道借出去的东西都回来了。",
+      "actor": ""
+    },
+    {
+      "id": "p275",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她到的时候，部长正在解释一段程序。几个人围在旁边。",
+      "actor": ""
+    },
+    {
+      "id": "p276",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "来啦？这儿给你留了椅子。",
+      "actor": ""
+    },
+    {
+      "id": "p277",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人把电脑往她这边挪了一点。",
+      "actor": ""
+    },
+    {
+      "id": "p278",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "我们最近做的。点这里开始，操作这回写在边上了。",
+      "actor": "peer"
+    },
+    {
+      "id": "p279",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她试了一会儿，有地方没看懂，就问。",
+      "actor": ""
+    },
+    {
+      "id": "p280",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "对方边回答边修改。",
+      "actor": ""
+    },
+    {
+      "id": "p281",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人把她刚问的那条补进说明。下一位试玩的人坐下，少问了一个问题。",
+      "actor": ""
+    },
+    {
+      "id": "p282",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "第二年刚换完届，社团要准备迎新。群里又开始约时间，这回连插线板放哪儿，都有人知道了。",
+      "actor": ""
+    },
+    {
+      "id": "p283",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "群里有人提议，把大家做过的东西带去展示。",
+      "actor": ""
+    },
+    {
+      "id": "p284",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "大家往上翻各自的工程。有的还差一点，有的差得不少，倒是谁都能掏出点东西。",
+      "actor": ""
+    },
+    {
+      "id": "p285",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "程序测试、画稿、短篇、小小游戏。有的完整，有的只能玩一小段。",
+      "actor": ""
+    },
+    {
+      "id": "p286",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她开始整理展示清单。",
+      "actor": ""
+    },
+    {
+      "id": "p287",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "没做完也能发，写一下现在能玩到哪儿。别都等“下次完善”，摊位可不等咱们。",
+      "actor": "president",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p288",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "技术部部长",
+      "text": "我这次放神经网络动画模型的录像。",
+      "actor": "founder",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p289",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "好，写上了。",
+      "actor": "president",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p290",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "画本同学",
+      "text": "画稿也放吗？",
+      "actor": "artist",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p291",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "放，可以翻着看。",
+      "actor": "president",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p292",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "活动材料摊了一桌。社长拆开小包裹，里面是刚到的印章。",
+      "actor": ""
+    },
+    {
+      "id": "p293",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "印章底下刻着一个小小的游戏手柄。",
+      "actor": ""
+    },
+    {
+      "id": "p294",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "同学",
+      "text": "到了，先试试。",
+      "actor": "peer",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p295",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "message",
+      "who": "社长",
+      "text": "好，先拿张废纸试一下，别直接盖正式卡片。",
+      "actor": "president",
+      "chat": "president-5",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "p296",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她拿废纸垫上，按了一下。颜色浅了，再来；力道够了，方向又歪了。",
+      "actor": ""
+    },
+    {
+      "id": "p297",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "旁边同学凑过来看，说像手柄自己在拐弯。她也笑，拿来一张新的。",
+      "actor": ""
+    },
+    {
+      "id": "p298",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把纸扶正，蘸了点印泥。这次不赶，先把图案对上。",
+      "actor": ""
+    },
+    {
+      "id": "p299",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "stamp",
+      "who": "",
+      "actor": "president",
+      "text": "她拿起印章，对着空白卡片比了一下。"
+    },
+    {
+      "id": "p300",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "卡片放在旁边晾。还是有点歪，但手柄能认出来，不用再添一句说明。",
+      "actor": ""
+    },
+    {
+      "id": "p301",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "大家开始摆设备。部长坐在电脑前，试了试动画模型的录像能不能正常播放。",
+      "actor": ""
+    },
+    {
+      "id": "p302",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "展示设备、排班、材料，她挨个确认。清单终于从“等回复”变成了“已收到”。",
+      "actor": ""
+    },
+    {
+      "id": "p303",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "明天的安排发群里了，大家看一眼。作品我也另存了一份，别到时候找不到。",
+      "actor": "president"
+    },
+    {
+      "id": "p304",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "几个人应声。",
+      "actor": ""
+    },
+    {
+      "id": "p305",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她又看一遍，暂时没找出漏项。正要端杯子，旁边把电脑推了过来。",
+      "actor": ""
+    },
+    {
+      "id": "p306",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "有人把一台电脑推过来。",
+      "actor": ""
+    },
+    {
+      "id": "p307",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "这版你玩过没？",
+      "actor": "peer"
+    },
+    {
+      "id": "p308",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "还没。",
+      "actor": "president"
+    },
+    {
+      "id": "p309",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "现在有空吗？",
+      "actor": "peer"
+    },
+    {
+      "id": "p310",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机没亮。她看一眼空杯子，把椅子往前拉了拉。",
+      "actor": ""
+    },
+    {
+      "id": "p311",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "行，现在试。怎么开始？",
+      "actor": "president"
+    },
+    {
+      "id": "p312",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "点这里。",
+      "actor": "peer"
+    },
+    {
+      "id": "p313",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她坐下来。",
+      "actor": ""
+    },
+    {
+      "id": "p314",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "角色往前走，拐弯，停下。她故意往桌边撞了一下——这回挡住了。",
+      "actor": ""
+    },
+    {
+      "id": "p315",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "迎新摊位前有人停下来。部长讲自己的动画模型，画本同学翻画稿，电脑前空出一把椅子。",
+      "actor": ""
+    },
+    {
+      "id": "p316",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "部长开始解释程序，画本同学把画稿翻到下一页。",
+      "actor": ""
+    },
+    {
+      "id": "p317",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把活动卡递给站在桌边的新同学。",
+      "actor": ""
+    },
+    {
+      "id": "p318",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "同学",
+      "text": "一点都不会，也能来？",
+      "actor": "peer"
+    },
+    {
+      "id": "p319",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "能啊。先坐，想玩哪个？",
+      "actor": "president"
+    },
+    {
+      "id": "p320",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "对方指着屏幕问了两句，旁边很快有人接上话。",
+      "actor": ""
+    },
+    {
+      "id": "p321",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "旁边的同学把椅子拉出来，往外让了半步。位置不大，坐一个人正好。",
+      "actor": ""
+    },
+    {
+      "id": "p322",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "先坐着试试吧。",
+      "actor": "president"
+    },
+    {
+      "id": "p323",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把操作提示转向那位同学：“不知道就问，卡住了也喊一声。”",
+      "actor": ""
+    },
+    {
+      "id": "p324",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "那张盖歪的活动卡也摆上了桌。来的人拿起来看了看，没问为什么歪。",
+      "actor": ""
+    },
+    {
+      "id": "p325",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把卡片放到笔记本旁边。",
+      "actor": ""
+    },
+    {
+      "id": "p326",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "手机振了一下，群里有人发来现场照片。",
+      "actor": ""
+    },
+    {
+      "id": "p327",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "社长在旁边看试玩，手里还捏着刚找出来的胶带。刚才说要粘什么，这会儿得想一下。",
+      "actor": ""
+    },
+    {
+      "id": "p328",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "",
+      "text": "她把照片存好。屏幕里的角色又往前走了一段，桌前的人跟着笑起来。",
+      "actor": ""
+    },
+    {
+      "id": "p-ending",
+      "chapter": 5,
+      "scene": "classroom",
+      "kind": "dialogue",
+      "who": "社长",
+      "actor": "president",
+      "text": "还没走的话，再玩一会儿呗。"
+    },
+    {
+      "id": "invite-look",
+      "kind": "dialogue",
+      "who": "",
+      "actor": "xiaoye",
+      "text": "屏幕上的小叶子抬起头，把椅子往里让了让。",
+      "chapter": 5,
+      "scene": "classroom"
+    },
+    {
+      "id": "invite-hello",
+      "kind": "dialogue",
+      "who": "小叶子",
+      "actor": "xiaoye",
+      "text": "先别急着走。",
+      "chapter": 5,
+      "scene": "classroom"
+    },
+    {
+      "id": "invite-unfinished",
+      "kind": "dialogue",
+      "who": "小叶子",
+      "actor": "xiaoye",
+      "text": "还缺不少东西呢。会做的、想学的，都用得上。",
+      "chapter": 5,
+      "scene": "classroom"
+    },
+    {
+      "id": "invite-hand",
+      "kind": "invite",
+      "who": "小叶子",
+      "actor": "xiaoye",
+      "text": "要不，一起来？咱们把这个世界接着做完。",
+      "chapter": 5,
+      "scene": "classroom"
+    }
+  ]
+}

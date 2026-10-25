@@ -1,0 +1,2867 @@
+{
+  "title": "东山有戏：这关一起过",
+  "version": "0.8.0",
+  "chapters": [
+    {
+      "title": "两段，真就两段",
+      "subtitle": "01 / 求真楼 · 下午",
+      "start": 0
+    },
+    {
+      "title": "这游戏怎么拼",
+      "subtitle": "02 / 第一次见面会",
+      "start": 33
+    },
+    {
+      "title": "基础从哪儿算起",
+      "subtitle": "03 / 馨园餐厅 → 活动教室",
+      "start": 74
+    },
+    {
+      "title": "收藏了，等于学了",
+      "subtitle": "04 / 一点点，又一点点",
+      "start": 126
+    },
+    {
+      "title": "先交，先交",
+      "subtitle": "05 / 联谊比赛",
+      "start": 170
+    },
+    {
+      "title": "下次还来",
+      "subtitle": "06 / 几次活动之后",
+      "start": 205
+    },
+    {
+      "title": "这回真动手了",
+      "subtitle": "07 / 迎新之前",
+      "start": 234
+    },
+    {
+      "title": "东山还有一关",
+      "subtitle": "08 / 回到教室",
+      "start": 279
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n0",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "下午的课还没下。小叶子换了一边脸趴着，给刚才那边放个假。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n1",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "老师",
+      "text": "小叶子。",
+      "kind": "dialogue",
+      "actor": "teacher"
+    },
+    {
+      "id": "n2",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "到。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n3",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "老师",
+      "text": "没睡吧？",
+      "kind": "dialogue",
+      "actor": "teacher"
+    },
+    {
+      "id": "n4",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "没，闭着眼听。省电。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n5",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "老师",
+      "text": "那你这个姿势对颈椎不太好。",
+      "kind": "dialogue",
+      "actor": "teacher"
+    },
+    {
+      "id": "n6",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "他换了个姿势。旁边的键盘声还没停。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n7",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "坐旁边的同学学软工，最近一门心思想建游戏社团。人还没凑齐，程序先写上了。后来，大家叫他技术部部长。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n8",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "你还写着呢。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n9",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "快了。就差两段。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n10",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "真办啊？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n11",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "对啊。老师找好了，朋友们也叫齐了。日常的事有人一起协调，我就想搞技术。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n12",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "帮我填两段。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n13",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "哪两段？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n14",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "活动预期效果、成员交流方式。定期交流，分享做的东西，一起学。意思差不多就行。",
+      "kind": "paper",
+      "actor": "founder"
+    },
+    {
+      "id": "n15",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "多少字？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n16",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "没要求。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n17",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "那我就真填两段啊。再多得加个饭。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n18",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子坐起来，补了几行。部长核对完附件，把文件发给另一位一起筹备的同学。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n19",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "好了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n20",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "行。交了我接着看攻击判定，这段卡好几天了。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n21",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "电脑被拉回去。两段的事办完，小叶子重新趴下。这次轮到刚才那边脸值班。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n22",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "下课铃响。部长把电脑和材料收进包。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n23",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "吃饭？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n24",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我先去和其他同学交材料。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n25",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "那我先走了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n26",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "嗯。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n27",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子走到门口时，部长还在桌上找笔。笔夹在他自己的电脑边上。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n28",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "过了！\n一次过！\n下周三第一次见面会，你也来。\n我准备演示，其他安排看群里。",
+      "kind": "message",
+      "actor": "founder",
+      "chat": "founding",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n29",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "他拿起手机。",
+      "kind": "choice",
+      "choices": [
+        "几点？",
+        "去干什么？",
+        "有吃的吗？"
+      ],
+      "replies": [
+        "技术部部长：七点。你：行，吃完过去。",
+        "技术部部长：聊聊想做什么游戏，先认识一下。你：哦，那不用预习吧？",
+        "技术部部长：可以买点糖。你：几点？"
+      ],
+      "actor": "xiaoye",
+      "chat": "founding",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n30",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "教室到时候发群里。",
+      "kind": "dialogue",
+      "actor": "founder",
+      "chat": "founding",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n31",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "",
+      "text": "他放下手机。过了一会儿，又拿起来。",
+      "kind": "dialogue",
+      "actor": "",
+      "chat": "founding",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n32",
+      "chapter": 0,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "大概几点结束？",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "founding",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n33",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "第一次见面会。部长蹲在讲台边接线，两袋糖放在桌上。小叶子进门，先看见了糖。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n34",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "来了？随便坐。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n35",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "他挑了个靠后的位置。看得见投影，够得着糖，离被提问也远一点。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n36",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "今天随便聊聊。平时玩什么，想做什么，都行。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n37",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我想做三维动作，就《黑神话：悟空》那种。最近又弄了个神经网络动画模型，给你们看一段。",
+      "kind": "media",
+      "actor": "founder",
+      "media": "neural"
+    },
+    {
+      "id": "n38",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "这个是你做的？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n39",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "这是我自己做的神经网络动画模型。先放录像，后面有段动作还想改。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n40",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "那你已经做过游戏了？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n41",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "完整游戏还没有，平时都在折腾这些功能。想找人一起试试。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n42",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "我想做种田。能布置房子，镇上住一些人，每天去找他们聊天。我主要想画里面的人。",
+      "kind": "dialogue",
+      "actor": "artist"
+    },
+    {
+      "id": "n43",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "能联机吗？",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n44",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "没想过。",
+      "kind": "dialogue",
+      "actor": "artist"
+    },
+    {
+      "id": "n45",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "我想做联机的，几个人一起玩。",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n46",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "前排同学",
+      "text": "合作还是对抗？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n47",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "都要。",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n48",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "两个人聊起平时玩的游戏。画本同学翻开本子，给另一边的人看角色。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n49",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "靠窗同学",
+      "text": "我想做剧情向的。选完以后，人物会记得玩家前面说过什么。",
+      "kind": "dialogue",
+      "actor": "writer"
+    },
+    {
+      "id": "n50",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "这个好。",
+      "kind": "dialogue",
+      "actor": "artist"
+    },
+    {
+      "id": "n51",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "那联机的时候算谁选的？",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n52",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "靠窗同学",
+      "text": "啊？",
+      "kind": "dialogue",
+      "actor": "writer"
+    },
+    {
+      "id": "n53",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "不是还在说刚才那个吗？",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n54",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "靠窗同学",
+      "text": "我说我自己的。不联机，就一个人选。",
+      "kind": "dialogue",
+      "actor": "writer"
+    },
+    {
+      "id": "n55",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "哦哦。",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n56",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "前排同学",
+      "text": "我想做恐怖解谜。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n57",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "白板上有种田、剧情、联机、恐怖和动作。谁也没反对谁，主要是谁也没跟上谁。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n58",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "糖帮忙往这边传一下呗。对了，你想做什么？",
+      "kind": "snack",
+      "actor": "peer"
+    },
+    {
+      "id": "n59",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "他放下糖袋。",
+      "kind": "choice",
+      "choices": [
+        "卡牌吧。",
+        "二维的，卡牌肉鸽。",
+        "能做出来的。"
+      ],
+      "replies": [
+        "同学：会做了？你：打算会。",
+        "同学：用什么做？你：这个还在挑。",
+        "同学：要求真不高。你：先别给我加。卡牌肉鸽那种吧。"
+      ],
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n60",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "说完，他又拆了一颗糖。游戏还没开始做，见面会的补给已经少了一半。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n61",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "靠窗同学",
+      "text": "所以后面是一起做一个吗？",
+      "kind": "dialogue",
+      "actor": "writer"
+    },
+    {
+      "id": "n62",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "可以组队，也可以先做自己的。有想法就发群里，看看有没有人一起。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n63",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "不会程序也可以？",
+      "kind": "dialogue",
+      "actor": "artist"
+    },
+    {
+      "id": "n64",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "当然可以。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n65",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "我学过一点，但没做过游戏。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n66",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "那正好，一起试。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n67",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长把白板拍下来。五种游戏挤在一张照片里，看着倒像已经做了不少。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n68",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "下次讲点基础。带电脑来，咱们先让它动起来。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n69",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "要提前装什么？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n70",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我到时候发群里。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n71",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "",
+      "text": "人渐渐走空。他把糖纸拢进空袋子，把身边的椅子推回去。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n72",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "人挺多，想做的也挺多。基础慢慢补，下次先讲简单的。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n73",
+      "chapter": 1,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "走哪个食堂？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n74",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "馨园吧。想吃碗面了。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n75",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "小叶子把手机揣回兜里，跟着往馨园走。刚才说的五种游戏，暂时都让位给了晚饭。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n76",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "看什么？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n77",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "下次弄个角色，走、攻击、切状态。简单过一下，不用多久。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n78",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "嗯。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n79",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "小叶子吃得差不多了。部长还在讲，碗里的面只下去一半。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n80",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "先吃吧。面听懂了也不会自己进嘴。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n81",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "马上。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n82",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "下次活动，插线板先坐满了。人围着插座找位置，像在选一块能开工的地。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n83",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "今天从最基础的开始。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n84",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子打开安装界面。百分之八十九。今天的基础，暂时只有一条进度条。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n85",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "先弄个简单交互。进范围，按一下，就有反应。后面可以换成攻击判定。这个先不展开。",
+      "kind": "lesson",
+      "actor": "founder"
+    },
+    {
+      "id": "n86",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "先建角色类，再把这几个东西加上。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n87",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "前排同学",
+      "text": "等一下，刚才那个怎么开的？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n88",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "双击。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n89",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "前排同学",
+      "text": "双击哪里？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n90",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长退回去点了一下。有人拍照，有人找按钮。小叶子的安装到了百分之九十三，他这一排也算有了进展。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n91",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "不用全拍，工程等会儿发群里。这里取方向，再乘输入值。这个应该都知道，我就直接用了。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n92",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "教室安静下来。投影上的线连得很顺，下面的人还在找线从哪儿拉出来。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n93",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "这部分没问题吧？",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n94",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "没人说话。小叶子看了看左右，大家都很有礼貌，没有打断。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n95",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "好，那继续。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n96",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "他刚才建了什么？",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n97",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "不知道。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n98",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "旁边同学",
+      "text": "你做到哪儿了？",
+      "kind": "dialogue",
+      "actor": "gamer"
+    },
+    {
+      "id": "n99",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "还没装好。我比你少一个问题。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n100",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "两人一起等。前排的角色先动了，原地转圈。部长过去改了一处，角色停住，后排也跟着松了口气。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n101",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "好了。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n102",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "你这里接错了。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n103",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "又一位同学把电脑转过去。部长拉过椅子，几下改好了。小叶子低头看时间：这几下，和自己刚才那几下，好像不是一个东西。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n104",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "今天先到这里。工程和讲义都发了，回去可以再看看。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n105",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "你听得怎么样？",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n106",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "打开了。今天没白来。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n107",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "没跟上？",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n108",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "嗯。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n109",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长教小叶子转视角。地面先歪过去，又正回来；小叶子往前一走，人穿到地下了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n110",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "下次再看。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n111",
+      "chapter": 2,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "行。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n112",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "到了馨园，部长端着饭坐下。小叶子刚拿起筷子，学习进度又被问到了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n113",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "你不是说以后想去做游戏吗？多少学一点。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n114",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "你今天那个，我不太想做。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n115",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "你不是想做卡牌？",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n116",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "对，二维的，肉鸽那种。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n117",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "那你去看看Unity。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n118",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "准备看，已经有这个打算了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n119",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "上次问你，你也准备看。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n120",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "说明方向挺稳定。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n121",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "那你到底想干什么？",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n122",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "毕业找家公司上班。换皮的也行，有班上就行。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n123",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "那也得会点东西吧。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n124",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "所以正准备学。你看，前后都对上了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n125",
+      "chapter": 2,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "部长想了想，先吃面。再问下去，饭凉了，小叶子也未必会多学一点。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n126",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "最近学什么了？",
+      "kind": "message",
+      "actor": "founder",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n127",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "弄了点东西。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n128",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "什么？",
+      "kind": "dialogue",
+      "actor": "founder",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n129",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子打开自己做的Ren’Py作品。不是教程收藏夹，这次真有东西能点。这里留着当时的录像。",
+      "kind": "media",
+      "media": "renpy",
+      "actor": ""
+    },
+    {
+      "id": "n130",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "画面里，是他当时写进去的场景和对白。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n131",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "他点了几下。画面肯往后走，人物也肯按他说的说话，暂时没人穿到地底下。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n132",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "他把这段录像发了过去。",
+      "kind": "dialogue",
+      "actor": "",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n133",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "这个你自己弄的？",
+      "kind": "dialogue",
+      "actor": "founder",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n134",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "嗯。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n135",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "可以啊，接着做。Unity呢？",
+      "kind": "dialogue",
+      "actor": "founder",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n136",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "也在鼓捣。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "learning",
+      "contact": "技术部部长",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n137",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "Unity里先做出来的是DeepSeek大肥鱼。卡牌肉鸽还在计划里，鱼已经能动了。先有鱼，也行。",
+      "kind": "media",
+      "media": "fish",
+      "actor": ""
+    },
+    {
+      "id": "n138",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "他打开自己的小游戏，点几下，看看画面里的反馈。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n139",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "保存。看手机。到饭点了。小叶子这几步倒是从来不需要教程。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n140",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "群里有人发教程，有人问报错。部长也发来一段神经网络动画模型的录像。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n141",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "同学",
+      "text": "这个动作快一点是不是更好？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n142",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我试一下。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n143",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "没过多久，群里又多了一版录像。小叶子看完回了个表情。部长问的是动作效果，他发的是“厉害”。也算交流上了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n144",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "跨校茶话会。几所学校的同学混着坐，桌上有饮料和零食，话题从怎么学，一路聊到为什么又报错。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n145",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校程序同学",
+      "text": "你这个动画模型怎么弄的？",
+      "kind": "dialogue",
+      "actor": "programmer"
+    },
+    {
+      "id": "n146",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我给你看看。还有些地方想再试试。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n147",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "两个人越聊越快。小叶子在旁边拆饼干，另一位外校同学也在拆。两边的进度都挺稳定。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n148",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "你听得懂吗？",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n149",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "刚才还能听见，听懂是另一回事。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n150",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "哦。",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n151",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "外校同学把饼干盒推过来。技术交流进行到这里，两人终于有了共同操作。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n152",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "分享同学",
+      "text": "我一般先跟一个小教程，做完再改。",
+      "kind": "dialogue",
+      "actor": "programmer"
+    },
+    {
+      "id": "n153",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "另一位同学",
+      "text": "我一般先收藏。收藏夹分门别类的。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n154",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "这个我熟。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n155",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "然后不看？",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n156",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "看啊，有时候。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n157",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "看多少？",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n158",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "看它要装什么。太大了就先缓缓。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n159",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "那咱俩应该是一个班的。",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n160",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "分享者打开演示。角色站在按钮旁，按键没有反应。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n161",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "分享同学",
+      "text": "先看看是不是没进交互范围。我第一次卡了半天，后来把范围画出来，才发现一直站外面。",
+      "kind": "dialogue",
+      "actor": "programmer"
+    },
+    {
+      "id": "n162",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "他把角色往前挪了一点。浅蓝色区域亮起，E的提示出现。按钮亮了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n163",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "哦。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n164",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "怎么了？",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n165",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "好像见过。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n166",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子盯着那块浅蓝色。原来上次不是按键不行，是站得太远。旧存档还在，翻回去试一下。",
+      "kind": "memory",
+      "actor": ""
+    },
+    {
+      "id": "n167",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "",
+      "text": "他重新翻出旧工程链接，旁边已经在约饭。刚学会往交互范围里站，接下来得往食堂走。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n168",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "你们学校有什么好吃的？",
+      "kind": "dialogue",
+      "actor": "visitor"
+    },
+    {
+      "id": "n169",
+      "chapter": 3,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "我想吃剔尖。先去馨园看看，没了就换一样。这个不用提前开会。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n170",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "比赛主题发进群里。部长连着回了几条，其他人报空闲时间。小叶子看了眼日历：空的。他把手机扣下，假装还在考虑。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n171",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "比赛期间，他刚坐下，就收到一份文档。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n172",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "这几句帮忙写一下？开头结尾，短一点。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n173",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子写下“他推开门”，停住了。门里是什么，谁也还没告诉他。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n174",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "他为什么要进去？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n175",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "找东西。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n176",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "找什么？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n177",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "对方转头去问旁边的人。几个人商量了一会儿。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n178",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "钥匙。刚定的。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n179",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "行。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n180",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "他把“寻找失落的……”删掉，换成“找钥匙”。这回总算知道丢的是什么了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n181",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "一会儿工夫，角色能跑了。跑得相当自由，桌子也拦不住。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n182",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "这里不挡一下？",
+      "kind": "dialogue",
+      "actor": "artist"
+    },
+    {
+      "id": "n183",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "等下，我先看触发。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n184",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "角色还没拿钥匙，结尾就出现了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n185",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "我没拿。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n186",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "看见了，先别走，我改一下。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n187",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长切回工程改触发。小叶子删掉一个错字。两个人都修了一个问题，用时差得有点远。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n188",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "小叶子，你再试一下。画面出来了，怎么角色不动？",
+      "kind": "evidence",
+      "actor": "peer"
+    },
+    {
+      "id": "n189",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子按了键，角色动了。大家在开头补上操作提示，免得下一个人也坐着跟它对视。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n190",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "临近提交，角色终于老老实实拿钥匙、走到结尾。小叶子写的两句话也顺利露了面，没有提前下班。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n191",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "可以了吧？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n192",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "这张图先这样。",
+      "kind": "dialogue",
+      "actor": "artist"
+    },
+    {
+      "id": "n193",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长最后运行一次。上传。提交成功。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n194",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "有人靠椅背，有人去接水。小叶子伸了个懒腰，像刚完成了一项很适合伸懒腰的工作。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n195",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我刚才想到，这个其实还可以——",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n196",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "先别。刚交完，让它好好待一会儿。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n197",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "我知道。我另存一份，不动刚才那份。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n198",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "赛后轮流演示。有的队伍很完整，有的卡在半路。台下总有人递话：“刚才这个我们也遇见过。”",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n199",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "",
+      "text": "轮到他们，操作的人小心地走完流程。台下有人问实现方式。部长拿起话筒，开始回答。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n200",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "外校同学",
+      "text": "结束一起吃饭？",
+      "kind": "message",
+      "actor": "visitor",
+      "chat": "dinner",
+      "contact": "外校同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n201",
+      "chapter": 4,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "行。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "dinner",
+      "contact": "外校同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "x-cameo-0",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "",
+      "text": "赛后回到馨园，几个人拼成一桌。小叶子端着餐盘晚来一步，先找空位。",
+      "actor": ""
+    },
+    {
+      "id": "x-cameo-1",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "小叶子",
+      "text": "这里有人吗？",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "x-cameo-2",
+      "chapter": 4,
+      "scene": "cafeteria",
+      "kind": "dialogue",
+      "who": "社长",
+      "text": "没有，坐吧。",
+      "actor": "president"
+    },
+    {
+      "id": "n202",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "后来活动还是照常。有时候教室满，有时候插线板比人忙。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n203",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "今天人少？",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n204",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "有课的，有作业的，还有两个晚点到。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n205",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "那先看这个。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n206",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长打开程序，招呼大家往前坐。小叶子挪了挪椅子，离投影近一点，离插座也近一点。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n207",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "",
+      "text": "另一个晚上，小叶子接着改DeepSeek大肥鱼。新效果出来了，旧的点击反馈没了。鱼还在，手感不在了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n208",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "",
+      "text": "他把问题发过去。部长圈了两处，小叶子照着改，再运行。点击又有反应了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n209",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "成了。这鱼又理我了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n210",
+      "chapter": 5,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "嗯。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n211",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "后来，小叶子开始把报错复制给AI。有时候一句话就解决，有时候多出一屏。后一种，他先看第一行。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n212",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "再后来，Agent能直接帮着改工程了。他把大肥鱼里想改的地方说清楚，等它改完，自己打开点一遍。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n213",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "这次反馈还是和他想的不一样。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n214",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "不是这个意思。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n215",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "小叶子换个说法，再运行。差不多了。保险起见，他又点了两遍。这回没出别的事，赶紧保存。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n216",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "部长又在群里发了段动画模型的录像。小叶子点开看了一会儿。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n217",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "同学",
+      "text": "什么时候能玩？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n218",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "技术部部长",
+      "text": "现在先看看录像，还在弄。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n219",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "小叶子把那段录像又看了一遍。部长每回说“还在弄”，还真是一直在弄。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n220",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "又一顿食堂晚饭。有人在选课，有人在赶作业，有人在问醋递到哪儿了。小叶子把醋瓶往里推了推，接着拌自己的刀削面。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n221",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "小叶子吃完没走。端盘子的人还没吃完，讲游戏的人也还没讲完。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n222",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "同届同学",
+      "text": "下次活动来不来？",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n223",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "哪天？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n224",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "同届同学",
+      "text": "周三。",
+      "kind": "dialogue",
+      "actor": "peer"
+    },
+    {
+      "id": "n225",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "他打开日历。周三空着。看了一眼，日历也没替他找出什么借口。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n226",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "小叶子",
+      "text": "应该来。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n227",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "说起刚玩的游戏，小叶子把手机放下，挑了两处不好玩的地方。这回倒没人催他，他自己越说越多。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n228",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "课表换了，群里添了新头像。第二年刚换完届，大家重新分工。部长留在技术那头，对他来说，换届不影响改程序。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n229",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "同届同学",
+      "text": "之后摆摊展示作品，大家手上有能展示的游戏可以发一下。",
+      "kind": "message",
+      "actor": "peer",
+      "chat": "recruitment",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n230",
+      "chapter": 5,
+      "scene": "cafeteria",
+      "who": "",
+      "text": "群里陆续有人发作品。部长也把神经网络动画模型的录像发了过来。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n231",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子点开DeepSeek大肥鱼，跑了一遍。这个能展示。不过看着摊位通知，他又有了一个别的念头。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n232",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他翻到之前那个Ren’Py工程。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n233",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他又看了一遍自己写过的场景。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n234",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "熟悉的对白，一句一句往下走。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n235",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他靠着椅背想了一会儿。来回吃了这么多顿饭，总有几件事能写。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n236",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "新建脚本，写下第一句。这次“下次再看”没排上号。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n237",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子的文档",
+      "text": "老师：小叶子。\n小叶子：到。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n238",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他停了停，又往下写。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n239",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "第一次见面会照片谁有？",
+      "kind": "message",
+      "actor": "xiaoye",
+      "chat": "photos",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n240",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "群文件里。",
+      "kind": "dialogue",
+      "actor": "artist",
+      "chat": "photos",
+      "contact": "社团群",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n241",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "群文件里的白板照片还在：种田、剧情、联机、恐怖、动作。角落里小叶子低着头，不知道在看手机还是拆糖。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n242",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他放大照片，想认出剩下几个字。糊了。先写记得的吧，不能因为白板糊了，连糖也不写。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n243",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他想加上点人物、拖东西这些小动作。试了几次，开始把这个短篇搬进团结引擎。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n244",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他给角色起名字，把教室摆进去，再加选项。选项看着挺像那么回事，就是不肯让人选。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n245",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "Agent改完，终于能点。选完又跳回原来那句。小叶子没打算做循环，游戏先替他做了。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n246",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他把重现过程补清楚，又改一轮。这回从哪儿回来，他也得自己盯着。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n247",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "你大肥鱼拿来展示吗？",
+      "kind": "message",
+      "actor": "peer",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n248",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "那个先放着。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n249",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "哦。",
+      "kind": "dialogue",
+      "actor": "peer",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n250",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "我做了个别的。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n251",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他发去一个早期版本。过了一会儿，对方回复。",
+      "kind": "dialogue",
+      "actor": "",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n252",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "怎么还有我？",
+      "kind": "dialogue",
+      "actor": "peer",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n253",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "有吗？",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n254",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "见面会那段。你把咱们各说各的也写进去了？",
+      "kind": "dialogue",
+      "actor": "peer",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n255",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "嗯。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n256",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "对方继续玩。",
+      "kind": "dialogue",
+      "actor": "",
+      "chat": "first-build",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n257",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子请部长看重复触发。部长打开工程，圈了一处。刚才还在表演“再来一遍”的地方，终于找到了原因。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n258",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "这里又跳回去了，改一下。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n259",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他改完，重新运行。这次没重复。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n260",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "好了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n261",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "你这儿后面其实还能加个——",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n262",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "先让我走完。这回我真想走到结尾。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n263",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "行。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n264",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "隔壁门打不开。",
+      "kind": "message",
+      "actor": "artist",
+      "chat": "door-feedback",
+      "contact": "画本同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n265",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "里面没做。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "door-feedback",
+      "contact": "画本同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n266",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "画本同学",
+      "text": "哦。",
+      "kind": "dialogue",
+      "actor": "artist",
+      "chat": "door-feedback",
+      "contact": "画本同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n267",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子贴上“暂未开放”。纸歪了，扶正。场景可以晚点做，告示总得先贴明白。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n268",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "试玩截图发来：部长顶着自己的脸说“我听不懂”。小叶子赶紧改了说话人。这话让本人看见，下一堂基础课恐怕得加时。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n269",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他从头再玩：点名、两段申请、各说各的见面会、没听懂的基础课、茶话会和比赛。还有几次鼓捣，几顿吃着吃着就凉了的饭。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n270",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "最后回到教室。一路没卡。小叶子把手悬在鼠标上等了等，怕游戏还有自己的想法。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n271",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "没有。他这才往椅背上一靠。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n272",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "能摆了吗？",
+      "kind": "message",
+      "actor": "peer",
+      "chat": "release",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n273",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "",
+      "text": "他重新从标题进去，又走了一遍。",
+      "kind": "dialogue",
+      "actor": "",
+      "chat": "release",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n274",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "应该能了。",
+      "kind": "dialogue",
+      "actor": "xiaoye",
+      "chat": "release",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n275",
+      "chapter": 6,
+      "scene": "classroom",
+      "who": "同届同学",
+      "text": "发来我试试。",
+      "kind": "dialogue",
+      "actor": "peer",
+      "chat": "release",
+      "contact": "同届同学",
+      "chatTime": "刚刚"
+    },
+    {
+      "id": "n276",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "和开场相同的光。老师站在讲台旁，看着他。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n277",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "指导老师",
+      "text": "诶小叶子，咱们这个游戏是不是没做完啊？",
+      "kind": "dialogue",
+      "actor": "teacher"
+    },
+    {
+      "id": "n278",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "他挠挠头。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n279",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "是没做完。东山这块，咱还得接着建。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n280",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "隔壁教室的门打不开，是因为场景还没做。",
+      "kind": "door",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n281",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "部长还在讲台旁，电脑上开着那段动画模型的录像。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n282",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "部长这段课，我只写到听懂的地方。后面就空着了。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n283",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "技术部部长",
+      "text": "你可以问我啊。",
+      "kind": "dialogue",
+      "actor": "founder"
+    },
+    {
+      "id": "n284",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "下次。下次带个录音。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n285",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "而我……",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n286",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子看看自己。开场穿这件，结尾还穿这件，连衣服都没机会换班。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n287",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "我连第二套衣服都没有。美术还没画，凑合穿吧。",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n288",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "旁边有人笑了。小叶子也笑了一下。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n289",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "小叶子把托着头的手放下来，看向屏幕外。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "n290",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "小叶子",
+      "text": "饭都吃了这么多顿，要不再坐会儿？",
+      "kind": "dialogue",
+      "actor": "xiaoye"
+    },
+    {
+      "id": "n291",
+      "chapter": 7,
+      "scene": "classroom",
+      "who": "",
+      "text": "他坐直了一点，准备再说两句。",
+      "kind": "dialogue",
+      "actor": ""
+    },
+    {
+      "id": "invite-look",
+      "kind": "dialogue",
+      "who": "",
+      "actor": "xiaoye",
+      "text": "屏幕上的小叶子抬起头，把椅子往里让了让。",
+      "chapter": 7,
+      "scene": "classroom"
+    },
+    {
+      "id": "invite-hello",
+      "kind": "dialogue",
+      "who": "小叶子",
+      "actor": "xiaoye",
+      "text": "先别急着走。",
+      "chapter": 7,
+      "scene": "classroom"
+    },
+    {
+      "id": "invite-unfinished",
+      "kind": "dialogue",
+      "who": "小叶子",
+      "actor": "xiaoye",
+      "text": "还缺不少东西呢。会做的、想学的，都用得上。",
+      "chapter": 7,
+      "scene": "classroom"
+    },
+    {
+      "id": "invite-hand",
+      "kind": "invite",
+      "who": "小叶子",
+      "actor": "xiaoye",
+      "text": "要不，一起来？咱们把这个世界接着做完。",
+      "chapter": 7,
+      "scene": "classroom"
+    }
+  ]
+}
